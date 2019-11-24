@@ -8,6 +8,8 @@ Live World Population Clock
 
 * Config option for text color
 
+![](images/2.png)
+
 ![](images/1.png)
 
 ## Installation
