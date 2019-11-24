@@ -10,8 +10,6 @@ Live World Population Clock
 
 ![](images/2.png)
 
-![](images/1.png)
-
 ## Installation
 
 * `git clone https://github.com/mykle1/MMM-PopulationClock` into the `~/MagicMirror/modules` directory.
