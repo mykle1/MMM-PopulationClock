@@ -18,7 +18,7 @@ Live World Population Clock
 
 ```
     {
-          disabled: f,
+          disabled: false,
         module: "MMM-PopulationClock",
         position: "middle_center",
         config: {
